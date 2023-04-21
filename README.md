@@ -25,7 +25,5 @@ Examples can be found in each mixin file.
 
 	$ npm i esvi-sass-mixins-library-4
 
-## License
-
-[The MIT License](LICENSE.md)
-
+#### Note:
+Not published
