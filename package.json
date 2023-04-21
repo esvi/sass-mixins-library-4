@@ -1,0 +1,23 @@
+{
+  "name": "esvi-sass-mixins-library-4",
+  "version": "1.0.0",
+  "description": "Useful SASS mixins to use in your projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esvi/sass-mixins-library-4.git"
+  },
+  "author": {
+    "name": "Sarika van der Wal",
+    "email": "me@sarikavanderwal.com",
+    "url": "https://github.com/esvi/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esvi/sass-mixins-library-4/issues"
+  },
+  "homepage": "https://github.com/esvi/sass-mixins-library-4#readme"
+}
