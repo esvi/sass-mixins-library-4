@@ -21,9 +21,7 @@ Useful SASS mixins to use in your projects.
 Include the `mixins.scss` file in your project to include all mixins.
 Examples can be found in each mixin file.
 
-#### Installing with [NPM](https://www.npmjs.com/package/esvi-sass-mixins-library-4)
+#### ~~Installing with [NPM](https://www.npmjs.com/package/esvi-sass-mixins-library-4)~~ (Currently not published)
 
 	$ npm i esvi-sass-mixins-library-4
 
-#### Note:
-Not published
